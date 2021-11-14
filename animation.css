@@ -1,0 +1,16 @@
+.fontColor{
+  color: violet !important;
+}
+
+
+@keyframes autoSlide {
+  0%{transform: translateX(0vw);}
+  100%{transform: translateX(-302vw);}
+  
+}
+
+@keyframes whiteDark {
+  0%{width: 0px;}
+  100%{width: 50%}
+  
+}
